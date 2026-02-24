@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# IDE folders
+.idea/
+.vscode/
+
+# Jupyter internal files
+.ipynb_checkpoints/
+
