@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
+[![IBM Data Science](https://img.shields.io/badge/IBM-Data%20Science%20Professional-052FAD?logo=ibm&logoColor=white)](https://www.credly.com/badges/960adb8c-c3ed-4214-8ab4-9528c93bef21/public_url)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ---
 
 ## 📌 Project Overview
@@ -161,3 +162,12 @@ seaborn
 
 **Prasanna Vaddeman**  
 [LinkedIn](https://linkedin.com/in/prasanna-vaddeman) · [GitHub](https://github.com/prasanna-vaddeman)
+
+## 🏅 Certifications
+
+<a href="https://coursera.org/share/50232e89cbf231ca37e0ef6f70e12c24" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/660af5e3-77b6-4c80-9e2a-6ef7cb2c5d58/image.png" alt="IBM Data Science Professional Certificate" width="150"/>
+</a>
+
+**IBM Data Science Professional Certificate (V3)**  
+Issued by IBM · Verified on [Credly](https://www.credly.com/earner/earned/badge/960adb8c-c3ed-4214-8ab4-9528c93bef21)
