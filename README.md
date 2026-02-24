@@ -170,4 +170,4 @@ seaborn
 </a>
 
 **IBM Data Science Professional Certificate (V3)**  
-Issued by IBM · Verified on [Credly](https://www.credly.com/earner/earned/badge/960adb8c-c3ed-4214-8ab4-9528c93bef21)
+Issued by IBM · Verified on [Credly](https://www.credly.com/badges/960adb8c-c3ed-4214-8ab4-9528c93bef21/public_url)
