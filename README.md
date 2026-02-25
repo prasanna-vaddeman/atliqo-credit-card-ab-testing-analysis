@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql)
-![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas)
-![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Testing-8CAAE6?logo=scipy)
+![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-1.11+-8CAAE6?logo=scipy&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 [![IBM Data Science](https://img.shields.io/badge/IBM-Data%20Science%20Professional%20V3-052FAD?logo=ibm&logoColor=white)](https://coursera.org/share/50232e89cbf231ca37e0ef6f70e12c24)
 
